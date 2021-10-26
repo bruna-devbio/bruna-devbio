@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando React
-- 👯 I’m looking to collaborate on ...
 - 😄 Pronomes: ela/dela
 
 <div align="center">
